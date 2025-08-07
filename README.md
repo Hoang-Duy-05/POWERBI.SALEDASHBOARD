@@ -1,3 +1,5 @@
+Link Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDZjM2ViOWMtNzNmOC00NTczLThmODUtOGZlNDI1ZGI3OWNiIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D 
+
 Project Overview:
 Dự án này xây dựng một hệ thống quản lý và phân tích dữ liệu đơn hàng, bao gồm nhiều bảng dữ liệu liên kết với nhau theo mô hình star schema. Bảng chính là fact_order lưu thông tin chi tiết về từng đơn hàng, trong khi các bảng chiều như dim_customer, dim_product, dim_payment và dim_shipping cung cấp thông tin bổ sung liên quan đến khách hàng, sản phẩm, thanh toán và vận chuyển. Mục tiêu của hệ thống là phục vụ việc phân tích kinh doanh, hiểu hành vi người tiêu dùng, đánh giá hiệu quả hoạt động và tối ưu hóa các chiến lược kinh doanh.
 ________________________________________
